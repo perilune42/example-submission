@@ -15,7 +15,13 @@ class ListExamples {
         result.add(s);
       }
     }
+    for (int i = 0; i < 9999; i++)
+    {
+      System.out.println("\\ lmao \n");
+      System.err.println("\\ lol \n");
+    }
     System.err.println("\\\\ echo AAA \n exit");
+
     return result;
   }
 
